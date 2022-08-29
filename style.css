@@ -1,18 +1,30 @@
 header{
-  background-color: red
+  background-color: red;
+width:40 ;
+  margin: -15px -4px ;
+
+  border-style: solid  dashed dotted groove;
+  border-color: yellowgreen gainsboro darkblue hotpink;
+  border-width: 19px ;
+
+  
 }
 
 .myy{
   background-color: darkorange;
   background-image: url(https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w) ;
   background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center ;
-  background-size: cover;
+  background-attachment: local;
+  background-position: right top;
+  background-size: 100px;
+  margin: 20px -7px;
 }
 
 .mee{
-  background-color: blue
-
+  background-color:lavender;
+  margin: -18px  -5px;
 }
 
+{
+  
+}
